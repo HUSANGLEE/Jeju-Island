@@ -1,0 +1,61 @@
+body {
+	font-family: 'Nanum Pen Script', cursive;
+}
+
+
+img {
+	display:block;
+	width: 100%;
+}
+
+.navbar-brand {
+	font-size: 30px;
+}
+
+.places {
+	padding: 30px 0;
+	text-align: center;
+	background-color: #e3f2fd;
+}
+
+ #map {
+        height: 400px;
+        width: 100%;
+       }
+ .myform {
+	background-color: #31efeab8;
+	padding :32px;
+
+
+ }
+
+.myform form {
+	margin: 0 auto;
+	width :700px;
+}
+
+.myform form button {
+	background-color: #007bff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
